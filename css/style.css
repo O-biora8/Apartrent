@@ -428,20 +428,14 @@ ul {
 
 .search {
     display: block;
-    justif-content: flex-start;
-    alignitems: flex-start;
     width: 312px;
     margin: 34px 0 0 0;
-    colum-gap: 24px;
 }
 
 .location {
     display: block;
-    justif\-content: flex-start;
-    alin-items: flex-start;
     width: 312px;
     margin: 24px 0 0 0;
-    colum-gap: 24px;
 }
 
 
